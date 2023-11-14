@@ -1,0 +1,19 @@
+# Virtual Environment
+*/.venv/*
+
+# Database
+*.sqlite3
+
+# Migration files
+**/migrations/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# User-specific files
+*.DS_Store
